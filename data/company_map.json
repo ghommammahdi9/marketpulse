@@ -1,0 +1,187 @@
+{
+  "AAPL": {
+    "company": "Apple",
+    "aliases": ["apple", "iphone", "ipad", "tim cook", "app store", "ios", "macbook"],
+    "sector": "Technology"
+  },
+  "MSFT": {
+    "company": "Microsoft",
+    "aliases": ["microsoft", "azure", "copilot", "windows", "satya nadella", "xbox"],
+    "sector": "Technology"
+  },
+  "GOOGL": {
+    "company": "Alphabet",
+    "aliases": ["alphabet", "google", "youtube", "waymo", "sundar pichai", "gemini"],
+    "sector": "Technology"
+  },
+  "AMZN": {
+    "company": "Amazon",
+    "aliases": ["amazon", "aws", "prime", "andy jassy", "fulfillment", "kindle"],
+    "sector": "Consumer / Cloud"
+  },
+  "META": {
+    "company": "Meta",
+    "aliases": ["meta", "facebook", "instagram", "whatsapp", "threads", "mark zuckerberg"],
+    "sector": "Technology"
+  },
+  "NVDA": {
+    "company": "Nvidia",
+    "aliases": ["nvidia", "h100", "blackwell", "jensen huang", "cuda", "dgx"],
+    "sector": "Semiconductors"
+  },
+  "AMD": {
+    "company": "AMD",
+    "aliases": ["amd", "advanced micro devices", "ryzen", "epyc", "lisa su"],
+    "sector": "Semiconductors"
+  },
+  "INTC": {
+    "company": "Intel",
+    "aliases": ["intel", "core ultra", "pat gelsinger", "gaudi"],
+    "sector": "Semiconductors"
+  },
+  "TSM": {
+    "company": "TSMC",
+    "aliases": ["tsmc", "taiwan semiconductor", "taiwan semiconductor manufacturing"],
+    "sector": "Semiconductors"
+  },
+  "ASML": {
+    "company": "ASML",
+    "aliases": ["asml", "euv lithography", "lithography systems"],
+    "sector": "Semiconductors"
+  },
+  "QCOM": {
+    "company": "Qualcomm",
+    "aliases": ["qualcomm", "snapdragon", "cristiano amon"],
+    "sector": "Semiconductors"
+  },
+  "TSLA": {
+    "company": "Tesla",
+    "aliases": ["tesla", "elon musk", "model y", "model 3", "cybertruck", "autopilot", "fsd"],
+    "sector": "Automotive"
+  },
+  "GM": {
+    "company": "General Motors",
+    "aliases": ["general motors", "gm", "chevrolet", "cadillac", "mary barra"],
+    "sector": "Automotive"
+  },
+  "F": {
+    "company": "Ford",
+    "aliases": ["ford", "ford motor", "mustang mach e", "f-150 lightning"],
+    "sector": "Automotive"
+  },
+  "JPM": {
+    "company": "JPMorgan",
+    "aliases": ["jpmorgan", "jpmorgan chase", "jpm", "jamie dimon"],
+    "sector": "Banking"
+  },
+  "BAC": {
+    "company": "Bank of America",
+    "aliases": ["bank of america", "bofa", "bac", "moynihan"],
+    "sector": "Banking"
+  },
+  "GS": {
+    "company": "Goldman Sachs",
+    "aliases": ["goldman sachs", "goldman", "gs", "david solomon"],
+    "sector": "Banking"
+  },
+  "MS": {
+    "company": "Morgan Stanley",
+    "aliases": ["morgan stanley", "ms", "ted pick", "james gorman"],
+    "sector": "Banking"
+  },
+  "C": {
+    "company": "Citigroup",
+    "aliases": ["citigroup", "citi", "citibank", "jane fraser"],
+    "sector": "Banking"
+  },
+  "WFC": {
+    "company": "Wells Fargo",
+    "aliases": ["wells fargo", "wfc", "charlie scharf"],
+    "sector": "Banking"
+  },
+  "V": {
+    "company": "Visa",
+    "aliases": ["visa", "visa inc"],
+    "sector": "Payments"
+  },
+  "MA": {
+    "company": "Mastercard",
+    "aliases": ["mastercard", "master card"],
+    "sector": "Payments"
+  },
+  "PYPL": {
+    "company": "PayPal",
+    "aliases": ["paypal", "venmo"],
+    "sector": "Payments"
+  },
+  "NFLX": {
+    "company": "Netflix",
+    "aliases": ["netflix", "reed hastings", "streaming giant"],
+    "sector": "Media / Streaming"
+  },
+  "UBER": {
+    "company": "Uber",
+    "aliases": ["uber", "uber eats", "dara khosrowshahi"],
+    "sector": "Mobility"
+  },
+  "ORCL": {
+    "company": "Oracle",
+    "aliases": ["oracle", "larry ellison", "oracle cloud"],
+    "sector": "Technology"
+  },
+  "CRM": {
+    "company": "Salesforce",
+    "aliases": ["salesforce", "crm", "marc benioff", "slack"],
+    "sector": "Technology"
+  },
+  "SAP": {
+    "company": "SAP",
+    "aliases": ["sap", "sap se"],
+    "sector": "Enterprise Software"
+  },
+  "IBM": {
+    "company": "IBM",
+    "aliases": ["ibm", "watsonx", "watson", "arvind krishna"],
+    "sector": "Technology"
+  },
+  "XOM": {
+    "company": "ExxonMobil",
+    "aliases": ["exxonmobil", "exxon", "xom"],
+    "sector": "Energy"
+  },
+  "CVX": {
+    "company": "Chevron",
+    "aliases": ["chevron", "cvx"],
+    "sector": "Energy"
+  },
+  "TTE": {
+    "company": "TotalEnergies",
+    "aliases": ["totalenergies", "total energies", "total"],
+    "sector": "Energy"
+  },
+  "BP": {
+    "company": "BP",
+    "aliases": ["bp", "bp plc", "british petroleum"],
+    "sector": "Energy"
+  },
+  "SHEL": {
+    "company": "Shell",
+    "aliases": ["shell", "shell plc"],
+    "sector": "Energy"
+  },
+  "BA": {
+    "company": "Boeing",
+    "aliases": ["boeing", "737 max", "787 dreamliner"],
+    "sector": "Aerospace"
+  },
+  "AIR": {
+    "company": "Airbus",
+    "aliases": ["airbus", "a320neo", "a350"],
+    "sector": "Aerospace"
+  },
+  "LVMH": {
+    "company": "LVMH",
+    "aliases": ["lvmh", "louis vuitton", "moet hennessy"],
+    "sector": "Luxury"
+  }
+}

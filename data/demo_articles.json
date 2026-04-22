@@ -1,0 +1,114 @@
+[
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Apple supplier outlook lifts confidence in iPhone demand recovery",
+    "summary": "Suppliers signaled stronger-than-expected orders for the second half of the year, improving sentiment around Apple's hardware cycle.",
+    "link": "https://example.com/apple-supplier-demand",
+    "published": "2026-04-20T08:15:00Z"
+  },
+  {
+    "source": "Investing.com Stock Market News",
+    "title": "Apple supply chain points to firmer iPhone demand in second half",
+    "summary": "Fresh commentary from the supply chain suggests the next product cycle may be stronger than previously expected.",
+    "link": "https://example.com/apple-demand-second-half",
+    "published": "2026-04-20T08:22:00Z"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Tesla recalls software component after driver-assistance review",
+    "summary": "The update follows regulatory scrutiny and renews questions around deployment quality and customer trust.",
+    "link": "https://example.com/tesla-recall",
+    "published": "2026-04-20T09:00:00Z"
+  },
+  {
+    "source": "Investing.com All News",
+    "title": "Tesla faces renewed pressure after recall tied to driver assistance",
+    "summary": "Analysts said the issue could weigh on near-term sentiment despite software-first remediation.",
+    "link": "https://example.com/tesla-pressure-recall",
+    "published": "2026-04-20T09:08:00Z"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Nvidia gains as cloud demand stays strong despite supply bottlenecks",
+    "summary": "Investors focused on continued AI infrastructure spending even as component shortages remain a risk.",
+    "link": "https://example.com/nvidia-cloud-demand",
+    "published": "2026-04-20T10:05:00Z"
+  },
+  {
+    "source": "Investing.com Stock Market News",
+    "title": "Nvidia supported by persistent AI spending, supply remains the main constraint",
+    "summary": "A positive demand backdrop continues to offset concerns around fulfillment capacity and lead times.",
+    "link": "https://example.com/nvidia-ai-spending",
+    "published": "2026-04-20T10:11:00Z"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "JPMorgan beats estimates as trading and net interest income surprise to the upside",
+    "summary": "The bank posted stronger results than expected, with resilient consumer credit trends and healthy capital return.",
+    "link": "https://example.com/jpm-beats",
+    "published": "2026-04-20T11:00:00Z"
+  },
+  {
+    "source": "Investing.com All News",
+    "title": "JPMorgan earnings top expectations on trading strength",
+    "summary": "The lender benefited from stronger market activity and stable balance-sheet performance.",
+    "link": "https://example.com/jpm-trading-strength",
+    "published": "2026-04-20T11:07:00Z"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Amazon margins improve as logistics costs ease and retail discipline holds",
+    "summary": "Cost control efforts and more efficient fulfillment operations contributed to a better margin outlook.",
+    "link": "https://example.com/amazon-margins",
+    "published": "2026-04-20T12:00:00Z"
+  },
+  {
+    "source": "Investing.com Stock Market News",
+    "title": "Amazon margin story improves on shipping efficiency and disciplined spending",
+    "summary": "Analysts highlighted operating leverage as a key support for the next earnings cycle.",
+    "link": "https://example.com/amazon-operating-leverage",
+    "published": "2026-04-20T12:06:00Z"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Meta advertising growth cools but engagement metrics remain resilient",
+    "summary": "Investors weighed softer ad momentum against healthy engagement and monetization potential.",
+    "link": "https://example.com/meta-ad-growth",
+    "published": "2026-04-20T13:10:00Z"
+  },
+  {
+    "source": "Investing.com All News",
+    "title": "Meta sees mixed reaction as ad growth slows while user engagement stays healthy",
+    "summary": "The headline was mixed, with concerns on advertising offset partly by stronger platform activity.",
+    "link": "https://example.com/meta-mixed-reaction",
+    "published": "2026-04-20T13:15:00Z"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Microsoft cloud growth remains robust as enterprise AI adoption expands",
+    "summary": "Corporate demand for AI-enabled cloud services continued to support revenue visibility.",
+    "link": "https://example.com/microsoft-cloud-growth",
+    "published": "2026-04-20T14:00:00Z"
+  },
+  {
+    "source": "Investing.com Stock Market News",
+    "title": "Microsoft benefits from sustained enterprise cloud and AI demand",
+    "summary": "Spending on AI workloads remains a major tailwind for Azure-related expectations.",
+    "link": "https://example.com/microsoft-enterprise-ai",
+    "published": "2026-04-20T14:09:00Z"
+  },
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "European chip shares rise after upbeat sector commentary from suppliers",
+    "summary": "Positive supplier language improved the tone around semiconductor demand recovery in Europe.",
+    "link": "https://example.com/eu-chip-shares",
+    "published": "2026-04-20T15:00:00Z"
+  },
+  {
+    "source": "Investing.com All News",
+    "title": "Oil slips as supply outlook improves and demand concerns linger",
+    "summary": "Energy sentiment turned softer as traders reassessed supply expectations against slower global demand signals.",
+    "link": "https://example.com/oil-slips",
+    "published": "2026-04-20T15:18:00Z"
+  }
+]

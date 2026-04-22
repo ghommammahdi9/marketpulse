@@ -1,0 +1,233 @@
+[
+  {
+    "source": "Reuters Markets",
+    "title": "Nvidia suppliers signal continued AI server demand from hyperscalers",
+    "summary": "Component makers said enterprise and cloud customers are still accelerating orders tied to AI infrastructure deployments.",
+    "link": "https://example.com/nvidia-ai-demand-1",
+    "published": "2026-04-21T07:10:00Z"
+  },
+  {
+    "source": "CNBC Markets",
+    "title": "Microsoft cloud commentary reinforces belief that enterprise AI spending is holding up",
+    "summary": "Executives and analysts pointed to resilient AI-related cloud demand as a support for infrastructure names.",
+    "link": "https://example.com/microsoft-cloud-ai-1",
+    "published": "2026-04-21T07:25:00Z"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "AMD seen benefiting as customers diversify AI accelerator purchases",
+    "summary": "Investors are increasingly watching whether AI infrastructure spending broadens beyond the market leader.",
+    "link": "https://example.com/amd-ai-1",
+    "published": "2026-04-21T07:40:00Z"
+  },
+  {
+    "source": "Les Echos",
+    "title": "La demande en infrastructures IA continue de soutenir les valeurs technologiques",
+    "summary": "Les entreprises maintiennent leurs investissements dans le cloud et les capacités de calcul liées à l'intelligence artificielle.",
+    "link": "https://example.com/ia-infra-fr-1",
+    "published": "2026-04-21T07:55:00Z"
+  },
+
+  {
+    "source": "Reuters Business",
+    "title": "Traders cut rate-cut bets after stronger than expected inflation data",
+    "summary": "Markets reassessed the path of monetary easing as inflation came in firmer than anticipated.",
+    "link": "https://example.com/inflation-rates-1",
+    "published": "2026-04-21T08:10:00Z"
+  },
+  {
+    "source": "Bloomberg Markets",
+    "title": "Treasury yields rise as investors rethink timing of central bank easing",
+    "summary": "The move in yields suggests financing conditions may remain tighter for longer than markets hoped.",
+    "link": "https://example.com/yields-rates-1",
+    "published": "2026-04-21T08:18:00Z"
+  },
+  {
+    "source": "La Tribune",
+    "title": "Les marchés doutent d'une baisse rapide des taux après les derniers chiffres de prix",
+    "summary": "La perspective de crédits plus coûteux plus longtemps reste au centre des préoccupations des investisseurs.",
+    "link": "https://example.com/taux-fr-1",
+    "published": "2026-04-21T08:26:00Z"
+  },
+  {
+    "source": "CNBC Top News",
+    "title": "Fed-sensitive stocks wobble as inflation keeps pressure on policy outlook",
+    "summary": "Borrowing-sensitive sectors reacted negatively to signs that rates may stay elevated.",
+    "link": "https://example.com/fed-sensitive-1",
+    "published": "2026-04-21T08:35:00Z"
+  },
+
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "JPMorgan earnings beat expectations on trading strength and resilient credit trends",
+    "summary": "The bank posted stronger-than-expected results, helping support sentiment across large-cap financials.",
+    "link": "https://example.com/jpm-earnings-1",
+    "published": "2026-04-21T08:50:00Z"
+  },
+  {
+    "source": "Reuters Business",
+    "title": "Bank of America results reflect stable consumer activity despite rate uncertainty",
+    "summary": "Investors viewed the quarter as evidence that households remain resilient even under tighter financial conditions.",
+    "link": "https://example.com/bac-earnings-1",
+    "published": "2026-04-21T08:58:00Z"
+  },
+  {
+    "source": "Les Echos",
+    "title": "Les banques américaines rassurent partiellement avec des résultats supérieurs aux attentes",
+    "summary": "Les revenus de marché et la solidité des bilans soutiennent la confiance, même si l'environnement reste prudent.",
+    "link": "https://example.com/banks-fr-1",
+    "published": "2026-04-21T09:05:00Z"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "Goldman Sachs traders help offset weaker areas in mixed quarter",
+    "summary": "The market reaction was cautiously positive as investors focused on strength in market-facing businesses.",
+    "link": "https://example.com/gs-earnings-1",
+    "published": "2026-04-21T09:12:00Z"
+  },
+
+  {
+    "source": "Reuters Markets",
+    "title": "Oil slips as supply fears ease and demand concerns return",
+    "summary": "Energy markets softened as traders weighed looser supply expectations against weaker demand assumptions.",
+    "link": "https://example.com/oil-1",
+    "published": "2026-04-21T09:28:00Z"
+  },
+  {
+    "source": "Boursorama",
+    "title": "Le recul du pétrole allège la pression sur le secteur énergétique",
+    "summary": "La baisse du brut peut peser sur les groupes pétroliers mais aider les ménages et les entreprises consommatrices.",
+    "link": "https://example.com/oil-fr-1",
+    "published": "2026-04-21T09:35:00Z"
+  },
+  {
+    "source": "Reuters Business",
+    "title": "Chevron and Exxon watched as crude weakens on softer demand narrative",
+    "summary": "Investors are reassessing earnings assumptions for major oil groups after the latest move in prices.",
+    "link": "https://example.com/xom-cvx-1",
+    "published": "2026-04-21T09:42:00Z"
+  },
+  {
+    "source": "Capital",
+    "title": "Les valeurs de l'énergie sous surveillance après la baisse du brut",
+    "summary": "Une poursuite du mouvement pourrait soutenir les dépenses des ménages mais peser sur les producteurs.",
+    "link": "https://example.com/energy-fr-1",
+    "published": "2026-04-21T09:48:00Z"
+  },
+
+  {
+    "source": "Reuters Markets",
+    "title": "Tesla faces fresh regulatory pressure after driver-assistance review",
+    "summary": "The latest scrutiny renews debate over deployment quality, safety oversight and brand trust.",
+    "link": "https://example.com/tesla-reg-1",
+    "published": "2026-04-21T10:02:00Z"
+  },
+  {
+    "source": "Bloomberg Markets",
+    "title": "Meta under pressure as regulators revisit platform competition concerns",
+    "summary": "A tougher policy environment could complicate growth assumptions and weigh on investor confidence.",
+    "link": "https://example.com/meta-reg-1",
+    "published": "2026-04-21T10:10:00Z"
+  },
+  {
+    "source": "La Tribune",
+    "title": "La pression réglementaire reste un risque majeur pour les géants technologiques",
+    "summary": "Les investisseurs surveillent les décisions des autorités qui pourraient freiner certaines stratégies de croissance.",
+    "link": "https://example.com/reg-tech-fr-1",
+    "published": "2026-04-21T10:18:00Z"
+  },
+  {
+    "source": "CNBC Markets",
+    "title": "Alphabet investors weigh legal and antitrust risks against robust cash generation",
+    "summary": "The market sees regulation as a real overhang but not yet a thesis-breaker for the company.",
+    "link": "https://example.com/google-reg-1",
+    "published": "2026-04-21T10:25:00Z"
+  },
+
+  {
+    "source": "MarketWatch Top Stories",
+    "title": "Amazon margins improve as logistics discipline offsets slower consumer momentum",
+    "summary": "Investors focused on better operating leverage and tighter cost control across retail operations.",
+    "link": "https://example.com/amazon-margin-1",
+    "published": "2026-04-21T10:40:00Z"
+  },
+  {
+    "source": "Reuters Business",
+    "title": "Apple demand outlook improves as suppliers point to stronger device cycle",
+    "summary": "A firmer product cycle could help stabilize revenue expectations after a slower period for hardware demand.",
+    "link": "https://example.com/apple-demand-1",
+    "published": "2026-04-21T10:48:00Z"
+  },
+  {
+    "source": "Les Echos",
+    "title": "Amazon et Apple rassurent partiellement grâce à la discipline opérationnelle et à la demande",
+    "summary": "Les annonces récentes améliorent le ton du marché sur la consommation et la tech grand public.",
+    "link": "https://example.com/apple-amazon-fr-1",
+    "published": "2026-04-21T10:56:00Z"
+  },
+  {
+    "source": "Yahoo Finance",
+    "title": "Consumer tech sentiment firms as Apple cycle optimism offsets mixed demand data",
+    "summary": "The market response was constructive, though investors remain selective on names tied to discretionary spending.",
+    "link": "https://example.com/consumer-tech-1",
+    "published": "2026-04-21T11:04:00Z"
+  },
+
+  {
+    "source": "CNBC Markets",
+    "title": "Meta sees mixed advertising outlook even as engagement stays resilient",
+    "summary": "The company is balancing softer ad momentum against steady platform usage and monetization potential.",
+    "link": "https://example.com/meta-ads-1",
+    "published": "2026-04-21T11:18:00Z"
+  },
+  {
+    "source": "Reuters Business",
+    "title": "Netflix subscriber momentum supports streaming sentiment despite cautious guidance",
+    "summary": "The market liked the user growth story, but some investors remain careful on margin sustainability.",
+    "link": "https://example.com/netflix-1",
+    "published": "2026-04-21T11:26:00Z"
+  },
+  {
+    "source": "La Tribune",
+    "title": "Les plateformes numériques envoient des signaux contrastés sur la publicité et l'abonnement",
+    "summary": "Le marché distingue désormais plus fortement les modèles fondés sur la publicité de ceux portés par les abonnements.",
+    "link": "https://example.com/platforms-fr-1",
+    "published": "2026-04-21T11:34:00Z"
+  },
+  {
+    "source": "Bloomberg Markets",
+    "title": "Advertising slowdown fears remain, but audience resilience limits the damage for large platforms",
+    "summary": "Investors are looking for confirmation that weaker ad trends do not become a broader earnings drag.",
+    "link": "https://example.com/ad-slowdown-1",
+    "published": "2026-04-21T11:42:00Z"
+  },
+
+  {
+    "source": "Reuters Markets",
+    "title": "LVMH demand trends in Asia watched closely as luxury sector seeks clearer recovery",
+    "summary": "Investors are focused on whether high-end consumption is stabilizing after a weaker period.",
+    "link": "https://example.com/lvmh-1",
+    "published": "2026-04-21T11:55:00Z"
+  },
+  {
+    "source": "Les Echos",
+    "title": "Le luxe européen cherche des signes tangibles de reprise de la demande",
+    "summary": "Les marchés veulent savoir si le ralentissement observé ces derniers trimestres touche à sa fin.",
+    "link": "https://example.com/luxury-fr-1",
+    "published": "2026-04-21T12:03:00Z"
+  },
+  {
+    "source": "Reuters Business",
+    "title": "Airbus benefits from durable order visibility even as supply bottlenecks persist",
+    "summary": "The industrial outlook remains constructive, but execution still depends on supply chain improvement.",
+    "link": "https://example.com/airbus-1",
+    "published": "2026-04-21T12:12:00Z"
+  },
+  {
+    "source": "Boursorama",
+    "title": "Airbus et le luxe européen illustrent deux formes différentes de reprise attendue",
+    "summary": "L'un dépend des cadences industrielles, l'autre d'un retour plus franc de la consommation premium.",
+    "link": "https://example.com/airbus-luxury-fr-1",
+    "published": "2026-04-21T12:20:00Z"
+  }
+]
