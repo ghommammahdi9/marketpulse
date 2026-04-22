@@ -1,21 +1,15 @@
 \# MarketPulse
+![MarketPulse home](projet.png)
 
 
 
-\*\*MarketPulse\*\* is a live financial news interpretation engine built with \*\*Python, Streamlit, Pandas, SQLite, and Gemini\*\*.
+\**MarketPulse** is a live financial news interpretation engine built with **Python, Streamlit, Pandas, SQLite, and Gemini**.
 
-
-
-Instead of showing a raw stream of headlines, the app transforms live financial news into a structured market brief:
-
-\- what matters now
-
-\- why it matters
-
-\- what to watch next
-
-\- which supporting articles justify the interpretation
-
+It transforms a noisy live flow of financial headlines into a structured market brief:
+- what matters now
+- why it matters
+- what to watch next
+- which articles actually support the interpretation
 
 
 \---
